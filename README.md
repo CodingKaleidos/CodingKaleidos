@@ -1,4 +1,4 @@
-# 🧩 codingKaleidos // Sophia
+# 🧩 codingKaleidos // ChickenDash // Sophia
 
 > C# wizard. App tamer. Gremlin in the machine. Also probably a dragon (ignore the bird in the picture).
 
