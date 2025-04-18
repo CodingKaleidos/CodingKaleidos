@@ -32,16 +32,6 @@ Most of my projects are **private**, **client-owned**, or **too experimental** t
 
 ---
 
-## 📊 Stats & Shenanigans
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codingKaleidos&show_icons=true&hide_rank=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codingKaleidos&theme=tokyonight" />
-</p>
-
----
-
 > “I don't write bugs. I write future mysteries.”
 
 ---
