@@ -12,7 +12,7 @@ When I'm not rewriting things that already work (badly) for **absolutely no visu
 - **C# / .NET** – Blazor, MAUI, ASP.NET, Entity Framework
 - **C++ / C** – low-level spells and performance rituals
 - **JavaScript** – with too many frameworks, yes
-- **HTML / CSS** – and I *will* style that div
+- **HTML / CSS** – and I *will* style that div poorly!
 - **TYPO3 Extensions** – surprisingly fun, surprisingly cursed
 - **PHP** – legacy lives here
 - **Security Testing** – break first, patch later
