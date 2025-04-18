@@ -1,6 +1,6 @@
 # 🧩 codingKaleidos // Sophia
 
-> C# wizard. App tamer. Gremlin in the machine. Also probably a bird.
+> C# wizard. App tamer. Gremlin in the machine. Also probably a dragon(ignore the bird in the picture).
 
 Hi, I'm Sophia — professional developer, security tinkerer, and chaos-forged problem solver.
 When I'm not rewriting things that already work (badly) for **absolutely no visual gain**, I'm building tools that *don’t suck* and testing systems until they cry.
