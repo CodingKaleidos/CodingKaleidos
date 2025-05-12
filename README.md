@@ -18,7 +18,7 @@ Hi, I'm Sophia — developer, security enthusiast, and professional chaos manage
 - **Cross-platform App & Web App Development** – one codebase to rule them all
 
 ### 👻 Why There's Nothing Here
-Most of my projects are **private**, **client-owned**, or **too experimental** to unleash upon the world. But trust me — they exist. Somewhere.
+Most of my projects are **private**, **client-owned**, or **too experimental** to unleash upon the world. But trust me... they exist. Somewhere.
 
 ### 🛠️ Favorite Tools
 - Visual Studio / Code
